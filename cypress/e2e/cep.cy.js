@@ -32,5 +32,7 @@ describe('CEP', () => {
 
         cy.get('input[name="estado"]', { timeout: 7000 })
             .should('have.value', address.uf)
+        
     })
+    
 })
