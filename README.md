@@ -24,17 +24,11 @@ Este repositório é onde compartilho pequenos projetos, scripts, e exemplos de 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/GustavoRodrigues24/playground.git
+   
 Navegue até o diretório do projeto:
-
-bash
-Copiar
-Editar
 cd playground
-Instale as dependências:
 
-bash
-Copiar
-Editar
+Instale as dependências:
 npm install
 Execute os testes ou scripts conforme o projeto.
 
@@ -46,8 +40,3 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais informa�
 
 Obrigado por visitar meu repositório! 😊 Vamos aprender e evoluir juntos! 💡
 
-lua
-Copiar
-Editar
-
-Essa estrutura deixa claro o que o repositório oferece, como usar e também permite que outras pessoas contr
